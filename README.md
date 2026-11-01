@@ -8,6 +8,8 @@ A browser study app with two courses. The course picker in `index.html` opens Di
 
 **Information Visualization** (`information-visualization.html`) includes four original lecture PDFs (00–03), all 229 slide images, study concepts, quizzes, comparisons, browser speech playback, and three original past-exam PDFs with 12 supporting exam images. The three papers are shuffled variants of the same 14 questions. Suggested answers are not official marking keys; written answers require self-assessment. Lectures 04–11 are mentioned in the timetable but are not included in the supplied material.
 
+The Information Visualization glossary includes original lecture visuals for 99 concepts, including chart types, maps, colour scales, visual encoding and navigation. Images appear in both the glossary list and full explanations, with descriptive captions, lecture/slide references and full-size links. Images load as needed while scrolling.
+
 ## Start
 Live app: https://filippakarlsson.github.io/memorylab-digital-marketing/
 
